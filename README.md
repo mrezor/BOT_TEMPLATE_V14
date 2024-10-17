@@ -1,6 +1,6 @@
 *Bien le bonjour.*
 
-*Bot développer en Discord.js V14.12.1.*
+*Bot développer en Discord.js V14.16.3.*
 
 
 
